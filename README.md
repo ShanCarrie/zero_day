@@ -2,8 +2,8 @@
 
 ## Learning Objectives
 
-At the end you should be able to explain
+I am expected to know:
 
-* What is Vagrant
+* What is a virtual machine
 
 * What is Ubuntu
